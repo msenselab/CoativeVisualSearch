@@ -1,11 +1,11 @@
 # Contextual Cueing in Collaborative Visual Search
 
 Xuelian Zang1,2,*, Artyom Zinchenko3,*, Jiao Wu1, Xiuna Zhu3, Fangfang4 & Zhuanghua Shi3
-1.   	Institutes of Psychological Sciences, College of Education, Hangzhou Normal University, 311121, China
-2.   	Center for Cognition and Brain Disorders, Affiliated Hospital of Hangzhou Normal University, 310015, China.
-3.   	Department Psychologie, Ludwig-Maximilians-Universität München, Munich, Germany
-4.     School of Psychological and Cognitive Sciences and Beijing Key Laboratory of Behavior and Mental Health, Peking University, Beijing, 100871, China
-*. 	Note Xuelian Zang and Artyom Zinchenko contributed equally to this manuscript.
+1. Institutes of Psychological Sciences, College of Education, Hangzhou Normal University, 311121, China
+2. Center for Cognition and Brain Disorders, Affiliated Hospital of Hangzhou Normal University, 310015, China.
+3. Department Psychologie, Ludwig-Maximilians-Universität München, Munich, Germany
+4. School of Psychological and Cognitive Sciences and Beijing Key Laboratory of Behavior and Mental Health, Peking University, Beijing, 100871, China
+Note: Xuelian Zang and Artyom Zinchenko contributed equally to this manuscript.
 
 ## Abstract
 
