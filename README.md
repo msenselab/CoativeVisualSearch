@@ -1,6 +1,6 @@
 # Contextual Cueing in Collaborative Visual Search
 
-Xuelian Zang1,2, *, Artyom Zinchenko3,*, Jiao Wu1, Xiuna Zhu3, Fangfang4 & Zhuanghua Shi3
+Xuelian Zang1,2 Artyom Zinchenko3, Jiao Wu1, Xiuna Zhu3, Fangfang4 & Zhuanghua Shi3
 1. Institutes of Psychological Sciences, College of Education, Hangzhou Normal University, 311121, China
 2. Center for Cognition and Brain Disorders, Affiliated Hospital of Hangzhou Normal University, 310015, China.
 3. Department Psychologie, Ludwig-Maximilians-Universität München, Munich, Germany
