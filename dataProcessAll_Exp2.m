@@ -2,7 +2,7 @@
 %% 10/05/2013
 %% analyse all the data
 %% 
-function dataProcessAll_Exp2()
+function dataProcessAll_Exp2
 
 try
     close all;
@@ -18,7 +18,7 @@ try
     
     load('Exp2_AllData.mat');
     data = AllData;
-    dataOutAll = dataProcessValid_Exp2(data,  Exp);
+    dataOutAll = dataProcessValid(data,  Exp);
 
 
 catch ME

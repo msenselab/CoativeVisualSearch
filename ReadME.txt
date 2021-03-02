@@ -5,7 +5,9 @@
 
 
 Exp1_AllData.mat: Dataset for Experiment 1 (solo-search condition)
-Exp1_AllData: Dataset  for Experiment 2 (joint action condition)
+Exp2_AllData: Dataset  for Experiment 2 (joint action condition)
+Exp3_AllData.mat: Dataset for Experiment 3 (solo-search condition)
+
 
 Note: the data are already preprocessed by combining different participants response together. 
 Error trials and invalid trials (RTs of below 200 ms and above 2.5 standard deviations from the mean) 
