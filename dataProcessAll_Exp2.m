@@ -18,7 +18,7 @@ try
     
     load('Exp2_AllData.mat');
     data = AllData;
-    dataOutAll = dataProcessValid(data,  Exp);
+    dataOutAll = dataProcessValid_Exp2(data,  Exp);
 
 
 catch ME
