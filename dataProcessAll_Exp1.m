@@ -5,9 +5,9 @@
 function dataProcessAll_Exp1()
 
 try
-    close all
-    clc
-    clear all
+    close all;
+    clc;
+    clear;
     Exp.nEp = 5;
     Exp.nEpT = 1;
     Exp.nTB = 5;
@@ -19,7 +19,7 @@ try
     load('Exp1_AllData.mat');
     data = AllData;
     
-    %generate a data set for SPSS Statistics
+    % generate a data set for SPSS Statistics
     dataOutAll = dataProcessValid_Exp1(data,  Exp);   
       
 catch ME

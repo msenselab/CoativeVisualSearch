@@ -1,19 +1,17 @@
-# Contextual Cueing in Collaborative Visual Search
+# Contextual cueing in co-active visual search: joint action allows acquisition of task-irrelevant context
 
-Xuelian Zang1,2 Artyom Zinchenko3, Jiao Wu1, Xiuna Zhu3, Fangfang4 & Zhuanghua Shi3
-1. Institutes of Psychological Sciences, College of Education, Hangzhou Normal University, 311121, China
-2. Center for Cognition and Brain Disorders, Affiliated Hospital of Hangzhou Normal University, 310015, China.
-3. Department Psychologie, Ludwig-Maximilians-Universit√§t M√ºnchen, Munich, Germany
-4. School of Psychological and Cognitive Sciences and Beijing Key Laboratory of Behavior and Mental Health, Peking University, Beijing, 100871, China
+Xuelian Zang1, Artyom Zinchenko2, Jiao Wu1, Xiuna Zhu2, Fang Fang3 & Zhuanghua Shi2
+1. Center for Cognition and Brain Disorders, Affiliated Hospital of Hangzhou Normal University, 310015, China.
+2. Department Psychologie, Ludwig-Maximilians-Universit?t M®πnchen, Munich, Germany
+3. School of Psychological and Cognitive Sciences and Beijing Key Laboratory of Behavior and Mental Health, Peking University, Beijing, 100871, China
 
 *. 	Note Xuelian Zang and Artyom Zinchenko contributed equally to this manuscript.
 
 ## Abstract
 
-Repeatedly presenting a target within a stable search array facilitates visual search, an effect termed ‚Äúcontextual cueing‚Äù. Previous solo-performance studies have shown that contextual learning requires explicit allocation of attentional resources to the task-relevant repeated context, while repeated, but task-irrelevant subsets of items show no contextual benefits. Lack of attention to repeated, but task-irrelevant contexts may weaken contextual cueing. In a co-active  environment, however, people often share some attention to both self-relevant and co-actor relevant context. Whether participants can acquire  co-actor relevant, but self-irrelevant repeated contexts remains unsolved. Thus, the present study adopted the contextual cueing paradigm under the co-active social context. Participants learned a cued subset of the search display (either black or white) in the learning phase, and tested the search performance for the irrelevant subsets in the transfer phase. The experiment was conducted either in a solo condition (Experiments 1 and 3) or in a joint-action condition(Experiment 2). Contextual cueing was observed in all three experiments in the training phase. However, contextual learning of the irrelevant context in the transfer session was only manifested in the joint-action Experiment 2. Our findings suggest that shared focus of attention between partners enables representations of a coactor's task prompting contextual learning of otherwise irrelevant context. We conclude that the social interaction may widen the scope of attention, thus facilitating the acquisition of task-irrelevant contexts.
-
+Repeatedly presenting a target within a stable search array facilitates visual search, an effect termed as °∞contextual cueing°±. Previous solo-performance studies have shown that successful acquisition of contextual memories requires explicit allocation of attentional resources to the task-relevant repeated contexts. By contrast, repeated, but task-irrelevant contexts could not be learned when presented together with repeated task-relevant contexts due to blocking effect. Here we investigated if such blocking of context learning could be diminished in social context, when the task-irrelevant context is a task-relevant for a co-actor in joint action search mode. We adopted the contextual cueing paradigm and extended to the co-active search mode. Participants learned a context-cued subset of the search displays (color-defined) in the training phase, and their search performance was tested in the transfer phase, where previously irrelevant and relevant subsets were swapped. The experiments were conducted either in a solo search mode (Experiments 1 and 3) or in a co-active search mode (Experiment 2). Consistent with the classical contextual cueing studies, contextual cueing was observed in the training phase of all three experiments. Importantly, however, in the °Æswapped°Ø test session a significant contextual cueing effect was manifested only in the co-active search mode, but not in the solo search mode. Our findings suggest that social context may widen the scope of attention, thus facilitating the acquisition of task-irrelevant contexts.
 
 ## Data and code
 
-* data: Exp1_AllData.mat,  Exp2_AllData.mat, Exp3_AllData.mat
-* Analysis codes:  dataProcessAll_Exp1.m,  dataProcessAll_Exp2.m,  dataProcessAll_Exp3.m
+* data: Exp1_AllData.mat,  Exp2_AllData.mat, Exp3_AllData.mat, Exp2RTTh.mat
+* Analysis codes:  dataProcessAll_Exp1.m,  dataProcessAll_Exp2.m,  dataProcessAll_Exp3.m, dataProcessExp2v3.m

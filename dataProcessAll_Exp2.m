@@ -7,13 +7,13 @@ function dataProcessAll_Exp2
 try
     close all;
     clc;
-    clear all;
+    clear;
     Exp.nEp = 5;
     Exp.nEpT = 1;
     Exp.nTB = 5;
     Exp.nB = 25;
     Exp.nTrl = 24;
-
+    
     Exp.subNum = 16;
     
     load('Exp2_AllData.mat');

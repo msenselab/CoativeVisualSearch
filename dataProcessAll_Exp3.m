@@ -5,9 +5,9 @@
 function dataProcessAll_Exp3()
 
 try
-    close all
-    clc
-    clear all
+    close all;
+    clc;
+    clear;
     Exp.nEp = 5;
     Exp.nEpT = 1;
     Exp.nTB = 5;
